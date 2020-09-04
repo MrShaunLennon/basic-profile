@@ -66,14 +66,11 @@ a {
 .coding {
   width: 25%;
   float: left;
+  margin-right: 30px;
 }
 
 .food {
   width: 25%;
   float: right;
   margin-left: 30px;
-}
-
-.code-skill-description {
-  clear: left;
 }
